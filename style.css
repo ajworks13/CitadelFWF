@@ -1,0 +1,8 @@
+
+
+/* MOBILE BELOW */
+@media only screen and (max-width:620px){
+  *{
+    background:#51557e;
+  }
+}
